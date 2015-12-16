@@ -1,0 +1,20 @@
+########################################
+#      Spatial Viewer Report File      #
+########################################
+
+Date: %date%
+User: %user%
+URL:  %url%
+
+Spatialcontext: %scname%
+URI of Spatialcontext: %scuri%
+
+
+Filters: %filter%
+
+Selected Columns: %tablecolumns%
+
+Filtered Datasets: %linecounter%
+
+Table:
+%tablecontent%
